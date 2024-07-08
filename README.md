@@ -1,3 +1,3 @@
 # Hello world
 
-I a media researcher and data editor.
+I am Dimitris Elafropoulos, a media researcher and data editor.
